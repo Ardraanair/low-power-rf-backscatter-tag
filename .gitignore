@@ -1,0 +1,25 @@
+# KiCad local/session files
+*.kicad_prl
+*.lck
+~$*
+
+# Generated manufacturing files
+*.gbr
+*.drl
+*.pos
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build/output
+build/
+dist/
